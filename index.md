@@ -6,7 +6,7 @@ layout: default
 # Should COMP110 Add Lesson Videos?
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Problem Overview
 
@@ -27,7 +27,7 @@ As a result, we wanted to investigate whether it would be beneficial for other C
 To see if having lecture videos would be helpful for learning, we compared percieved class difficulty ranking to wanting livestreams and believing that having lesson videos would help learning. We also considered the number of responses each rating had and their percentage of the total.
 
 Graph 1: 
-img src="sherihj_website_comp110/static/imgs/add_livestream vs difficulty Line Graph.png" alt="add_livestream vs difficulty Line Graph."  width="500"
+img src="static/imgs/add_livestream vs difficulty Line Graph.png" alt="add_livestream vs difficulty Line Graph."  width="500"
 
 This line graph shows the relationship between how difficult the students percieved the class and how much they would prefer adding a live streamed lecture (with 1 being strongly disagree, and 7 being strongly agree). 
 
@@ -35,7 +35,7 @@ What this showed: Students who found the course to be more difficult tended to w
 
 
 Graph 2: 
-img src="sherihj_website_comp110/static/imgs/ls_effective vs difficulty Line Graph.png" alt="ls_effective vs difficulty Line Graph."  width="500"
+img src="static/imgs/ls_effective vs difficulty Line Graph.png" alt="ls_effective vs difficulty Line Graph."  width="500"
 
 This line graph shows the relationship between how difficult the students percieved the class and how much they think lesson videos help them learn course concepts (with 1 being strongly disagree, and 7 being strongly agree). 
 
@@ -43,7 +43,7 @@ What this showed: Students who found the course to be more difficult tended to s
 
 
 Graph 3: 
-img src="sherihj_website_comp110/static/imgs/ls_effective Bar Graph.png" alt="ls_effective Bar Graph."  width="500"
+img src="static/imgs/ls_effective Bar Graph.png" alt="ls_effective Bar Graph."  width="500"
 
 This bar graph shows the frequency of each student response. Responses were a number from 1-7 that represent how much students agreed that lesson videos would be helpful class material (with 1 being strongly disagree, and 7 being strongly agree). 
 
@@ -51,7 +51,7 @@ What this showed: Most students agreed with the idea that lesson videos would be
 
 
 Graph 4: 
-img src="sherihj_website_comp110/static/imgs/add_livestream Bar Graph.png" alt="add_livestream Bar Graph."  width="500"
+img src="static/imgs/add_livestream Bar Graph.png" alt="add_livestream Bar Graph."  width="500"
 
 This bar graph shows the frequency of each student response. Responses were a number from 1-7 that represent how much students would want a livestream option (with 1 being strongly disagree, and 7 being strongly agree).
 
